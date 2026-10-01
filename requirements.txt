@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pypdf
+numpy
+scikit-learn
+streamlit
+anthropic            # optional: LLM answers (set ANTHROPIC_API_KEY)
+sentence-transformers  # optional: better semantic search (falls back to TF-IDF)

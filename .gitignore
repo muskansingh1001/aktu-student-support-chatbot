@@ -1,0 +1,8 @@
+   venv/
+   __pycache__/
+   *.pyc
+   index/
+   data/aktu_raw/
+   Screenshot*.png
+   .env
+   
