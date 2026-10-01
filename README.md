@@ -35,4 +35,5 @@ python evaluate.py                  # retrieval + intent check
 - The scraper targets keyword-matched pages only; check AKTU's terms of use and robots.txt before large crawls.
 - Bundled ABES PDFs were compiled from public portals and may contain outdated figures; verify on official sites.
 ### apllication snapshots
-](<Screenshot (414).png>)
+<img width="1920" height="1080" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/87caadf9-c1a2-409f-9d63-f97e6a08f508" />
+
